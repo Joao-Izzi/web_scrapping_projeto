@@ -1,0 +1,11 @@
+{
+    "url": "https://www.gutenberg.org/ebooks/50468",
+    "autor": "Bumgarner, L. L.",
+    "titulo": "The Oak Ridge ALGOL Compiler for the Control Data Corporation 1604Preliminary Programmer's Manual",
+    "publicacao": "United States: Greenleaf Publishing Company,1954.",
+    "resumo": "\"The Oak Ridge ALGOL Compiler for the Control Data Corporation 1604\" by Bumgarner is a scientific publication issued in the early to mid-1960s. This manual serves as a preliminary programmer's guide for the ALGOL compiler developed to function on the Control Data 1604 and 1604-A computers. It likely focuses on the operations, commands, and limitations of the ALGOL programming language as implemented in this specific compiler version.  The manual begins with an introduction to the compiler project, highlighting its collaborative nature between the Oak Ridge National Laboratory and Control Data Corporation. It provides detailed sections on language restrictions, modes of operation, input/output processes, procedures for program execution, and diagnostic techniques for error checking. Notable features include the description of various standard procedures used within the ALGOL language, like READ, PRINT, and WRITE, along with practical examples of how programmers can effectively utilize the compiler. Appendices further expand on topics such as format declarations, internal representations, and efficiency considerations, ultimately guiding users through the complexities of ALGOL programming tailored for the Control Data 1604 system. (This is an automatically generated summary.)",
+    "idioma": "English",
+    "temas": [
+        "ALGOL (Computer program language)"
+    ]
+}
